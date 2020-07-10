@@ -10,3 +10,10 @@
         background-color: yellowgreen;
     }
 }
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body{
+        background-color: black;
+        color: white;
+    }
+}
